@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/Us/VEqJAQUTut0dsMqe5Fem9SXs9qm0cXfXvBfTq4gRppX+h5jnPW5DRhLmkv2C+0d+TYlyVc3xf/kKcc2hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Marques\\source\\Antiga\\ValoresDentroDoIntervalo\\ValoresDentroDoIntervalo\\ValoresDentroDoIntervalo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Marques\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.18\\microsoft.netcore.app.host.win-x86.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

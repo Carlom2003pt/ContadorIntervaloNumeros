@@ -1,0 +1,24 @@
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.exe
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.deps.json
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.runtimeconfig.json
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.dll
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.pdb
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.dll
+C:\Users\Samsung\source\repos\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.pdb
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.exe
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.deps.json
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.runtimeconfig.json
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.runtimeconfig.dev.json
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.dll
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\bin\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.pdb
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.csproj.AssemblyReference.cache
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.AssemblyInfoInputs.cache
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.AssemblyInfo.cs
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.dll
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.pdb
+C:\Users\Carlos Marques\source\Antiga\ValoresDentroDoIntervalo\ValoresDentroDoIntervalo\obj\Debug\netcoreapp3.1\ValoresDentroDoIntervalo.genruntimeconfig.cache
